@@ -26,3 +26,9 @@ preco NUMERIC(10,2)NOT NULL,
 estoque INT NOT NULL DEFAULT 0
 );
 ```
+para inserir dados na tabela utilizei os comandos abaixo:
+```sql
+- INSERT INTO produtos(nome,preco,estoque)
+-- VALUES('Iphone 17','10000.00','15';)
+```
+
