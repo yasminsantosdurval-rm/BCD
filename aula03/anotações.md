@@ -1,4 +1,4 @@
-# aula 2
+# aula 3
 
 comando para remover um banco de dados:
 
@@ -16,4 +16,13 @@ erDiagram
        int estoques "unidades disponiveis"
    }
 
-   
+   ```
+   PARA CRIAR A TABELA UTILIZAMOS OS COMANDOS ABAIXOS:
+```sql
+   CREATE TABLE produtos (
+id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+nome VARCHAR (50)NOT NULL,
+preco NUMERIC(10,2)NOT NULL,
+estoque INT NOT NULL DEFAULT 0
+);
+```
