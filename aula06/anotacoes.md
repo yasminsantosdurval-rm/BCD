@@ -138,4 +138,10 @@ WHERE nome ILIKE 'mouse%';
 >% operador coringa!
 
 ---
-### Atividades
+### Atividade Livraria
+
+## 1. criar o Banco De Dados
+![alt text](image.png)
+
+## 2. criar a tabela
+![alt text](image-1.png)
