@@ -32,3 +32,4 @@ para inserir dados na tabela utilizei os comandos abaixo:
 -- VALUES('Iphone 17','10000.00','15';)
 ```
 
+
