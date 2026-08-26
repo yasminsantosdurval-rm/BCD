@@ -24,17 +24,21 @@ flowchart LR
     B --NÃO--> A
     B --SIM--c["Update ou Delete com o mesmo WHERE"]
     C -->D["SELECT para conferir"]
-    ```
-    ---
-    Também é possivel realizar cálculos:
-    ```sql
+
+```
+
+Também é possivel realizar cálculos:
+```sql
     UPDATE produtos
-    SET estoque = estoque - 3
+    SET oestque = estoque - 3
     WHERE id = 2;
-    ```
+```
     ---
     para apagar:
+   ```sql
     SELECT * FROM produtos WHERE nome='Notebook';
-
+```
+```sql
 DELETE FROM produtos WHERE nome='Notebook Gamer';
  SELECT * FROM produtos
+ ```
