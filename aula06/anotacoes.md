@@ -145,3 +145,42 @@ WHERE nome ILIKE 'mouse%';
 
 ## 2. criar a tabela
 ![alt text](image-1.png)
+![alt text](image-2.png)
+
+## 3. Exiba os 10 primeiros registros.
+![alt text](image-3.png)
+
+## 4. Exiba título, autor e preço
+![alt text](image-4.png)
+
+## 5. Liste os gêneros diferentes em ordem alfabética.
+![alt text](image-5.png)
+
+## 6. Descubra quantos autores diferentes existem.
+![alt text](image-6.png)
+
+## 7. Liste os 5 livros mais caros.
+![alt text](image-7.png)
+
+## 8. Liste os 5 livros com menor estoque.
+![alt text](image-8.png)
+
+## 9.Livros do gênero Técnico.
+![alt text](image-9.png)
+
+## 10. Livros que custam mais de R$ 200,00.
+![alt text](image-10.png)
+
+## 11. Livros entre R$ 40,00 e R$ 70,00.
+![alt text](image-11.png)
+
+## 12. Livros com estoque abaixo de 5.
+![alt text](image-12.png)
+
+## 13. Livros publicados antes de 1900, do mais antigo para o mais recente.
+![alt text](image-13.png)
+
+## 14. Livros publicados entre 2010 e 2020.
+![alt text](image-14.png)
+
+
